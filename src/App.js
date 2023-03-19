@@ -12,6 +12,10 @@ function App() {
       <input type="Email" placeholder='Email' /> <br />
       <label htmlFor="text">Password</label><br />
       <input type="password" placeholder='password' /> <br />
+      <label htmlFor="text">Password</label><br />
+      <input type="password" placeholder=' Confirm password' /> <br />
+
+
       <button>Submit</button>
       </form>
 
