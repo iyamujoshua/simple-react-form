@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Web 3 Gods</h1>
+      <h1>Simple react form</h1>
       <form>
       <label htmlFor="name">Username</label> <br />
       <input type="text" placeholder='username' /> <br />
